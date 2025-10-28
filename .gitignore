@@ -1,0 +1,21 @@
+# Node
+node_modules/
+
+
+# Logs
+logs/
+*.log
+
+
+# Environment
+.env
+.DS_Store
+
+
+# npm
+package-lock.json
+
+
+# Misc
+.vscode/
+coverage/

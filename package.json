@@ -1,0 +1,24 @@
+{
+"name": "tally-counter-logger",
+"version": "1.0.0",
+"description": "Task 1: Winston logger; Task 2: Tally counter REST API with Express",
+"main": "src/task2/main.js",
+"scripts": {
+"start": "node src/task2/main.js",
+"task1": "node src/task1/main.js",
+"test": "mocha --recursive --exit",
+"lint": "echo \"no lint configured\""
+},
+"engines": {
+"node": ">=18"
+},
+"dependencies": {
+"express": "4.18.2",
+"winston": "3.11.0"
+},
+"devDependencies": {
+"mocha": "10.2.0",
+"chai": "4.3.7",
+"supertest": "6.3.3"
+}
+}
