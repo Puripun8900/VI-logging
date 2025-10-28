@@ -13,6 +13,3 @@ This project contains two tasks:
 
 - Node.js 18+
 - npm
-
-
-## Install
